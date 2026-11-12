@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "matricula": "2026A01",
+    "nome": "CARLOS EDUARDO SILVA",
+    "turma": "3A",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 8,
+    "alertaTempo": false
+  },
+  {
+    "id": 2,
+    "matricula": "2026A02",
+    "nome": "CAIO BEGNAMI DOS SANTOS",
+    "turma": "2B",
+    "data": "2026-10-24",
+    "presente": true,
+    "motivoSaida": "BIBLIOTECA",
+    "minutosFora": 12,
+    "alertaTempo": false
+  },
+  {
+    "id": 3,
+    "matricula": "2026A03",
+    "nome": "GUSTAVO VIEIRA DIAS",
+    "turma": "3B",
+    "data": "2026-10-26",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 16,
+    "alertaTempo": true
+  },
+  {
+    "id": 4,
+    "matricula": "2026A04",
+    "nome": "KAUAN FRANCISCO ONELLI DE ALMEIDA",
+    "turma": "2A",
+    "data": "2026-10-27",
+    "presente": true,
+    "motivoSaida": "ENFERMARIA",
+    "minutosFora": 21,
+    "alertaTempo": true
+  },
+  {
+    "id": 5,
+    "matricula": "2026B01",
+    "nome": "VINÍCIUS LEITE ROSA",
+    "turma": "2B",
+    "data": "2026-10-30",
+    "presente": true,
+    "motivoSaida": "COORDENAÇÃO",
+    "minutosFora": 9,
+    "alertaTempo": false
+  },
+  {
+    "id": 6,
+    "matricula": "2026B02",
+    "nome": "ANA CAROLINA PEREIRA",
+    "turma": "1B",
+    "data": "2026-11-10",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 1,
+    "alertaTempo": false
+  },
+  {
+    "id": 7,
+    "matricula": "2026B02",
+    "nome": "LUSO MURILO PABLO",
+    "turma": "3B",
+    "data": "2026-11-11",
+    "presente": true,
+    "motivoSaida": "BIBLIOTECA",
+    "minutosFora": 3,
+    "alertaTempo": false
+  }
+]
